@@ -1,7 +1,7 @@
 # SmartSystem
 
 
-# Dynamic Models for Building Energy Management - Report
+# Mini projet smart system - Report
 
 Authors: Emile HEYBERGER, Firass LASSOUED
 
@@ -9,7 +9,7 @@ Date: 30/01/2023
 
 The notebooks can be run interactively on MyBinder.com by clicking on the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heyberge/Smart-Cities/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heyberge/SmartSystem/HEAD)
 
 
 ## Introduction 
